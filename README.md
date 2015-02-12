@@ -9,4 +9,4 @@ Cellular automata (CAs) are a simplified model of physics and complex systems th
 
 The interesting thing about CAs is that they can give surprisingly complex behavior. For example:
 
-[img]http://i.imgur.com/a1pr1Ek.png[/img]
+![img](http://i.imgur.com/a1pr1Ek.png)
